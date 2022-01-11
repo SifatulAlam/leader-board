@@ -20,6 +20,7 @@ main {
 }
 hr {
   border: 1px solid #d1d1d1;
+  margin-bottom: 30px;
 }
 .top-players {
   margin-bottom: 30px;
